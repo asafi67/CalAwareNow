@@ -1,25 +1,37 @@
-# csc648 Repository
+CalAwareNow: Full Stack Web Application - CSC 648 Final Project
 
-## Please when ready add your teams application URL or IP to the repository description. This will help with grading. Teams are expected to keep this value up to date.
+Welcome to the repository for my CSC 648 final project, CalAwareNow. I spearheaded a dynamic team of six talented individuals to develop a comprehensive full-stack web application. CalAwareNow serves as a sophisticated platform enabling county officials in health, security, weather, and wildfire departments to disseminate timely updates and information regarding the latest risks to their communities.
+Project Overview
+Technology Stack
 
-## Please do the following steps before completing Milestone 0.
-1. Change the name of the repository. All that needs to change is the NN to your respective team number. Team numbers whose value is less than 10, please pad with a 0. Ex team 1 is Team01 team 11 is Team11. Please make sure to also remove the username from the repository as well. Teams with incorrectly name repository will have points deducted from their milestone 0 grades.
-      - Please follow the naming convention assigned by your instructor.
+    Backend: Node.js
+    Frontend: HTML/CSS/Bootstrap
+    Database: MySQL
+    Deployment: Google Cloud's Compute Engine platform
 
-1. PLEASE REMOVE THE USERNAME FROM THE REPOSITORY NAME!!!
+Methodology
 
-2. Add ALL members of your team to this repository. For it to count, they must ACCEPT the invite.
+I employed a meticulous project management approach, adhering to the waterfall methodology. This ensured a systematic and organized development process from inception to deployment.
+Responsibilities
+Team Leadership
 
-3. Fill out the table below
+As the team leader, my role was multifaceted. I directed the team through the Software Engineering (SE) lifecycle, ensuring each phase was executed seamlessly. I organized and facilitated regular team meetings, fostering collaboration and maintaining a structured workflow.
+Communication Liaison
 
+I served as the primary point of communication between the team and the professor, ensuring that project objectives and milestones were clearly understood and met. This involved effective conveying of team progress, challenges, and resolutions.
+Backend Support Engineer
 
-| Student Name |   Student Email   | GitHub Username |
-|    :---:     |         :---:     |     :---:       |
-|Chih Lin Chien|  cchien2@sfsu.edu |    brianjien    |
-|Himal Shrestha|kshrestha3@sfsu.edu|  ShresthaHimal  |
-|Fasika Abera  | fabera@sfsu.edu   |  fasikaabera    |
-| Dev patel    | Dpatel13@mail.sfsu.edu | dev1471    |
-| Ameen Safi   |asafi1@mail.sfsu.edu| asafi67        |
-| Trina Haque  |thaque@mail.sfsu.edu|trinahaque      |
+In addition to leadership and coordination responsibilities, I actively contributed as a backend support engineer. This role involved troubleshooting and resolving server routing issues, ensuring the seamless functionality of the application.
+Tools and Technologies
 
-## NO code needs to be stored in the root of your repository. You may rename the application folder if you like to your team's application name. But all source code related to your team's application should be stored inside the application folder.
+    Postman: Utilized for efficient troubleshooting and validation of server routing.
+    MySQL Workbench: Utilized for database management 
+
+Deployment
+
+The project was successfully deployed in a production environment using Google Cloud's Compute Engine platform, guaranteeing scalability, reliability, and optimal performance.
+Conclusion
+
+CalAwareNow stands as a testament to our team's dedication, technical prowess, and effective project management. This project not only showcases our technical skills but also demonstrates our ability to collaborate, communicate, and deliver a robust solution to meet real-world needs.
+
+Thank you for exploring our project repository. If you have any inquiries or would like to learn more, feel free to reach out.
